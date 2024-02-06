@@ -97,7 +97,7 @@ Resources:
 Create an image classification model using deep learning techniques to identify objects or animals in images. Learn about Convolutional Neural Networks and experiment with popular deep learning frameworks.
 
 Resources:
-- Deep learning frameworks: TensorFlow, PyTorch
+- Deep learning frameworks: TensorFlow, PyTorch, scikit-learn
 - Image datasets: ImageNet
 - Convolutional Neural Networks (CNNs)
 
